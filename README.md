@@ -1,4 +1,4 @@
-# total-focusing-method-pipeline-3d
+# total-focusing-method-3d-pipeline
 
 Xiaoyu Sun @ University of Bristol, 2023-11-28
 
